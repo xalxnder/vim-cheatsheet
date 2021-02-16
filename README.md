@@ -1,10 +1,9 @@
 # Vim Cheatsheet
 
-### Text Manipulation
+## Text Manipulation
 ```bash
 i   Insert Before Cursor
 I   Insert at the start of new line
-
 ```
 
-### Visual Mode
+## Visual Mode
